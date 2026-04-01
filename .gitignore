@@ -1,5 +1,6 @@
 # Backend (Java / Maven)
 backend/target/
+mcp-server/target/
 *.class
 *.jar
 *.war
